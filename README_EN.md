@@ -1,5 +1,11 @@
 # Print_bits exercise explanation:
 
+### English version:
+![CLICK HERE](https://github.com/anfipatica/print_bits/blob/main/README.md)
+
+------------------------------------------------------------------
+
+
 The first exam as a student at 42 has a possible exercise called print_bits that requires certain knowledge of topics that we haven't seen in 42 so far.
 
 It's a simple code that, from what I've heard, many people simply memorize, but I wanted to fully understand it and thought I could write here in a simple way the explanation of the code, in addition to briefly explaining 3 key concepts that are essential:
