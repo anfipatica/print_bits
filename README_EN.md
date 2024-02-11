@@ -1,7 +1,7 @@
 # Print_bits exercise explanation:
 
-### English version:
-![CLICK HERE](https://github.com/anfipatica/print_bits/blob/main/README.md)
+### Spanish version:
+![CLICK AQUÍ](https://github.com/anfipatica/print_bits/blob/main/README.md)
 
 ------------------------------------------------------------------
 
