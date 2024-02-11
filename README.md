@@ -1,7 +1,7 @@
 # Explicación ejercicio print_bits [ES]
 
 ### English version:
-![CLICK HERE]((https://github.com/anfipatica/print_bits/blob/main/README_EN.md)
+![CLICK HERE](https://github.com/anfipatica/print_bits/blob/main/README_EN.md)
 
 
 El primer examen como alumno de 42 tiene un posible ejercicio llamado print_bits que requiere ciertos conocimientos de temas que hasta ahora no hemos tocado en 42.
