@@ -1,5 +1,9 @@
 # Explicación ejercicio print_bits [ES]
 
+### English version:
+![CLICK HERE]((https://github.com/anfipatica/print_bits/blob/main/README_EN.md)
+
+
 El primer examen como alumno de 42 tiene un posible ejercicio llamado print_bits que requiere ciertos conocimientos de temas que hasta ahora no hemos tocado en 42.
 
 Es un código sencillo que por lo que tengo entendido mucha gente simplemente memoriza, pero yo quería entenderlo bien y he pensado que podía escribir aquí de una manera sencilla el funcionamiento del código,además de explicar brevemente 3 conceptos claves que son imprescindibles:
